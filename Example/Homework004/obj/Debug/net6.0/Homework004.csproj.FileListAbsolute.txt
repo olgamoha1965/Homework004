@@ -1,0 +1,15 @@
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\bin\Debug\net6.0\Homework004.exe
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\bin\Debug\net6.0\Homework004.deps.json
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\bin\Debug\net6.0\Homework004.runtimeconfig.json
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\bin\Debug\net6.0\Homework004.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\bin\Debug\net6.0\Homework004.pdb
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.csproj.AssemblyReference.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.AssemblyInfoInputs.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.AssemblyInfo.cs
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.csproj.CoreCompileInputs.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\refint\Homework004.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.pdb
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\Homework004.genruntimeconfig.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework004\Example\Homework004\obj\Debug\net6.0\ref\Homework004.dll
